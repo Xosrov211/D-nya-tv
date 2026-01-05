@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSİYA:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/dunya.ts?
-bandwidth=2096&chunk=2996939&e=1767683812&sid=coder_53&token=78c98ff6ff07ef29844564194e03eeff&user=37076
+http://149.255.152.199/dunya.ts?bandwidth=2096&chunk=2996939&e=1767683812&sid=coder_53&token=78c98ff6ff07ef29844564194e03eeff&user=37076
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/dunya.ts?
-bandwidth=2096&chunk=2996939&e=1767683812&sid=coder_53&token=78c98ff6ff07ef29844564194e03eeff&user=37076
+http://149.255.152.199/dunya.ts?bandwidth=2096&chunk=2996939&e=1767683812&sid=coder_53&token=78c98ff6ff07ef29844564194e03eeff&user=37076
