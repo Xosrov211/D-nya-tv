@@ -1,5 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="XosrovTelecom",ARB HD
-http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1767557878&playlistlength=5&shift=0&sid=coder_62&token=81792501a11a188ef1d68926ff21628f&user=37076
-
+#EXTINF:-1 group-title="XosrovTelecom",Dünya TV
+149.255.152.199/dunya.ts?bandwidth=2096&chunk=2996939&e=1767683812&sid=coder_53&token=78c98ff6ff07ef29844564194e03eeff&user=37076
