@@ -1,9 +1,10 @@
-
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=6096000,RESOLUTION=1920x1080
-http://149.255.152.199/arbhd.m3u8?bandwidth=6096&e=1767557878&playlistlength=5&shift=0&sid=coder_62&token=81792501a11a188ef1d68926ff21628f&user=37076
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="AZ-Audio",
+DEFAULT=YES,AUTOSELECT=YES,
+URI="149.255.152.199/dunya.m3u8?bandwidth=2096&e=1767682597&playlistlength=5&shift=0&sid=coder_53&token=892dc24448a541a44bd312f26789ef3b&user=37076
 
-#EXT-X-STREAM-INF:BANDWIDTH=2096000,RESOLUTION=1280x720
-http://149.255.152.199/dunya.m3u8?bandwidth=2096&e=1767681309&playlistlength=5&shift=0&sid=coder_53&token=07151fb3f6dee3eae4fd63ef4f0d2d91&user=37076
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,
+AUDIO="audio"
+149.255.152.199/dunya.m3u8?bandwidth=2096&e=1767682597&playlistlength=5&shift=0&sid=coder_53&token=892dc24448a541a44bd312f26789ef3b&user=37076
